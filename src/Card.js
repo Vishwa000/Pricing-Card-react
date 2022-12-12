@@ -18,7 +18,7 @@ function Card({ card }) {
             </h5>
             <h6 class="card-price text-center">
               {card.price}
-              <span class="period">/month✔</span>
+              <span class="period">/month</span>
             </h6>
             <hr />
             <ul class="fa-ul">
